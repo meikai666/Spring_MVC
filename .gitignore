@@ -1,5 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
-idea/*
+.idea
 Spring_MVC.iml
-classes/*
-target/*
+classes
+target
